@@ -1,7 +1,7 @@
-#Odin recipe
+# Odin recipe
 
-##Description
+## Description
 Basic recipe website with hard coded recepies.
 
-##Technology used
+## Technology used
 - Basic HTML5
